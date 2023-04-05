@@ -23,17 +23,17 @@ Rôle : directeur des ventes
 Demande/Exigence : 
 	Savoir quel est mon chiffre d'affaires global des 365 derniers jours (chiffre d'affaires cumulé depuis le début de l'année). 
 	Possibilité de filtrer :
-							- par ville 
-							- par année et 
-							- par mois
-		Quels sont les 5 meilleurs clients
-		Quels sont les 5 meilleurs produits
+		- par ville 
+		- par année et 
+		- par mois
+	Quels sont les 5 meilleurs clients
+	Quels sont les 5 meilleurs produits
 		
 Valeur pour l'utilisateur : 
-				Disposions d'informations sur les ventes pour soutenir la prise de décision fondée sur les données.
+	Disposions d'informations sur les ventes pour soutenir la prise de décision fondée sur les données.
 				
 Critères de réussite :
-			Un tableau de bord présentant des informations sur les commandes avec les dernières données disponibles.
+	Un tableau de bord présentant des informations sur les commandes avec les dernières données disponibles.
 			
 2)
 
@@ -43,11 +43,11 @@ Demande/Exigence :
 	Possibilité de connaître la région la plus faible où les ventes sont en baisse
 		
 Valeur pour l'utilisateur : 
-				Être en mesure de prendre des décisions commerciales intelligentes  
+	Être en mesure de prendre des décisions commerciales intelligentes  
 				
 Critères de réussite :
-			- Un tableau de bord présentant des informations sur les commandes avec les dernières données disponibles.
-			- Être en mesure de prendre de meilleures décisions
+	- Un tableau de bord présentant des informations sur les commandes avec les dernières données disponibles.
+	- Être en mesure de prendre de meilleures décisions
 
 # Nettoyage et transformation des données (SQL)
 
